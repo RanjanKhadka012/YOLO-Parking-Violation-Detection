@@ -1,0 +1,7 @@
+# Large datasets/outputs
+/data/
+/runs/
+/results/
+
+# Virtual environments
+/venv/
